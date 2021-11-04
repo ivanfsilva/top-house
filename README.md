@@ -59,7 +59,7 @@ O que foi utilizado na construção do projeto:
 #### Clonar o repositório
 
 ```bash
-    $ git clone https://github.com/ivanfsilva/bytebank
+    $ https://github.com/ivanfsilva/top-house
 ```
 
 
