@@ -67,6 +67,11 @@ footer address:last-child {
 	#paineis-sobre {
 		margin-top: 0;	
 	}
+
+	.banner{
+		left:0;
+		transform: translateY(-80%) translateX(0) !important;
+	}
 }
 
 @media(min-width: 992px) {
