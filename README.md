@@ -6,7 +6,7 @@
 ![](https://img.shields.io/github/license/ivanfsilva/bytebank)
 
 
-![](https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-blue)
+![](https://img.shields.io/badge/STATUS-CONCLUÍDO-green)
 
 ## Indice
 
@@ -26,9 +26,12 @@ Desenvolvimento de um site voltado para uma empresa de arquitetura fictícia cha
 
 Sáo utilizadas, para tanto, tecnologias como HTML, CSS, Javascript, JQuery e por fim, o Bootstrap3.
 
-<h4 align="center"> 
-	🚧  TopHouse - Release 1.0 em desenvolvimento...  🚧
-</h4>
+[comment]: <> (<h4 align="center"> )
+
+[comment]: <> (	🚧  TopHouse - Release 1.0 em desenvolvimento...  🚧)
+
+[comment]: <> (</h4>)
+
 
 ## 🛠 Tecnologias
 
